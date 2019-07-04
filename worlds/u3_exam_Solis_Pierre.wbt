@@ -803,7 +803,7 @@ DEF OBS4 Solid {
   boundingObject USE OBS_1
 }
 DEF OBS5 Solid {
-  translation -0.35 0.15 1.43
+  translation -1.07 0.15 1.43
   children [
     Shape {
       appearance PBRAppearance {
